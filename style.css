@@ -1,0 +1,26 @@
+body,html{
+	width: 100%;
+	height:100%;
+}
+.logo{
+	transition: all 1s;
+}
+.logo:hover{
+	transform: scale(1.1);
+}
+
+li :hover
+{
+	color: white;
+	font-weight: bold;
+}
+.myTitle{
+}
+
+h1{
+	font-family: "Open Sans";
+}
+.card{
+	margin-top: 25px;
+	margin-left: 25px;
+}
